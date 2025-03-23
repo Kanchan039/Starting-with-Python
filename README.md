@@ -21,11 +21,14 @@ Hence, this is our program to make a TO DO LIST.
 
 **2nd project is about generating a random password, with required criteria.**
 After executing the code it will ask you to enter the length of password. According to our code if we enter length less than 6, then there will be no output.
-"C:\Users\Lenvo\Pictures\Screenshots\Screenshot 2025-03-23 165923.png"
+
+![Screenshot 2025-03-23 165923](https://github.com/user-attachments/assets/06131d74-20e4-4b9c-b7bb-462966484753)
+
 
 Now, we will enter the required domain length, then the output is something like this:
 
-"C:\Users\Lenvo\Pictures\Screenshots\Screenshot 2025-03-23 165816.png"
+![Screenshot 2025-03-23 165816](https://github.com/user-attachments/assets/5da23aca-ebeb-486b-8f15-1c1ec3cf93b7)
+
 
 Hence, this is our project to generate random password.
 
