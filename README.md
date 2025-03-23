@@ -5,6 +5,7 @@ In this repository I will upload some of my projects with python
 After executing the code it will ask you to input the number between 1 to 5, as i have mentioned only 5 functions to do with this code. input of number other than 1-5 will lead to invalid choice of number.
 
 Initially our To Do List will be empty. by choosing View task screen will look like:
+
 ![Screenshot 2025-03-18 215520](https://github.com/user-attachments/assets/17d38071-f1c5-4e7a-a60b-eca1a8621faf)
 
 Then we will add few tasks by choosing number 1 i.e. Add Task, and we will view added task by choosing number 3:
