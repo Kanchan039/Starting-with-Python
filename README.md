@@ -18,5 +18,16 @@ Now by choosing "Complete task", we will mark the task as done:
 
 Hence, this is our program to make a TO DO LIST.
 
+
+**2nd project is about generating a random password, with required criteria.**
+After executing the code it will ask you to enter the length of password. According to our code if we enter length less than 6, then there will be no output.
+"C:\Users\Lenvo\Pictures\Screenshots\Screenshot 2025-03-23 165923.png"
+
+Now, we will enter the required domain length, then the output is something like this:
+
+"C:\Users\Lenvo\Pictures\Screenshots\Screenshot 2025-03-23 165816.png"
+
+Hence, this is our project to generate random password.
+
 We can modify this program according to our need.
 Reach out to me in case of any querry, issue or suggestions.
