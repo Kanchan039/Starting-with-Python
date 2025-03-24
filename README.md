@@ -33,5 +33,20 @@ Now, we will enter the required domain length, then the output is something like
 
 Hence, this is our project to generate random password.
 
+3rd project is about taking quiz.
+After executing the code it will ask you the questions that we have mentioned in the code. According to our code the first Q. will be displayed as follows;
+
+![Screenshot 2025-03-24 115616](https://github.com/user-attachments/assets/0c80b2ed-6409-4daf-b5be-0363bebdb6e0)
+
+And if give wrong answer then output will be like:
+
+![Screenshot 2025-03-24 115623](https://github.com/user-attachments/assets/ac0b0a63-df54-4813-88fc-9f9e44a82bb7)
+
+After taking the quiz, our score will be displayed:
+
+![Screenshot 2025-03-24 115636](https://github.com/user-attachments/assets/cac0321e-ab55-413b-ac45-62be79696a33)
+
+Hence, this is our project to display a quiz.
+
 We can modify this program according to our need.
 Reach out to me in case of any querry, issue or suggestions.
